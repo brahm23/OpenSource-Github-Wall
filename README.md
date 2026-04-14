@@ -237,6 +237,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </tr>
 <tr>
 <td align='center' width='120px'>
+<a href='https://github.com/tanmaykapadnis'>
+<img src='https://github.com/tanmaykapadnis.png' width='80px' style='border-radius:50%'><br>
+<sub><b>tanmaykapadnis</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/thisisibrahim'>
 <img src='https://github.com/thisisibrahim.png' width='80px' style='border-radius:50%'><br>
 <sub><b>thisisibrahim</b></sub>
